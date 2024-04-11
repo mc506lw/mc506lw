@@ -4,7 +4,7 @@
 <div align="value"> <img src="https://stats.justsong.cn/api/bilibili/?id=696652305&lang=zh-CN&theme=react"> </div>
 
 ## 我的项目
-[岚域官网](mistmc.top)
+[岚域官网](https://mistmc.top)
 
 
 
