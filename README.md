@@ -3,7 +3,7 @@
 
 <!-- 顶部欢迎区域 -->
 <p align="center">
-  <img src="./哈基米蜘蛛.gif" width="80">
+  <img src="./fjm.webp">
 </p>
 
 <!-- 关于我 -->
